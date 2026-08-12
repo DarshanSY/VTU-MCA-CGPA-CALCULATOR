@@ -40,7 +40,7 @@ export const sem3FixedSubjects: Subject[] = [
 export const sem4Subjects: Subject[] = [
   { id: 's4-1', name: 'Online Course', credits: 3, isNCMC: false, marks: null },
   { id: 's4-2', name: 'Technical Seminar', credits: 2, isNCMC: false, marks: null },
-  { id: 's4-3', name: 'Internship', credits: 11, isNCMC: false, marks: null },
+  { id: 's4-3', name: 'Internship', credits: 11, isNCMC: false, marks: null, maxMarks: 200 },
 ];
 
 // ═══════════════════════════════════════════════
